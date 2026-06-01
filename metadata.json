@@ -1,6 +1,0 @@
-{
-  "name": "Jihočeské katolické lesy",
-  "description": "Moderní, přírodně laděný web s administrací pro správu kontaktů, aktualit a prezentaci prodeje dřeva pro Jihočeské katolické lesy.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
