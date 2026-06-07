@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400&family=JetBrains+Mono:wght@400;500&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Playfair Display", Georgia, Cambria, serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+  
+  --color-forest-50: #F8F5F2; /* Warm stone paper background */
+  --color-forest-100: #F1EBE4; /* Subtle paper card boundary */
+  --color-forest-200: #E6DCCE;
+  --color-forest-300: #D4AF37; /* Rich Gold Accent */
+  --color-forest-400: #628c70;
+  --color-forest-500: #2D6A4F; /* Emerald medium */
+  --color-forest-600: #1B4332; /* Core Forest Dark Green (#1B4332) */
+  --color-forest-700: #143225;
+  --color-forest-800: #0E2219;
+  --color-forest-900: #1B4332; /* Match primary brand color */
+  --color-forest-950: #08130E;
+  
+  --color-gold-400: #E5C158;
+  --color-gold-500: #D4AF37; /* Gold accent color */
+  --color-gold-600: #B79222;
+  --color-gold-700: #937418;
+}
+
+/* Base style adjustments */
+body {
+  font-family: var(--font-sans);
+  background-color: #F8F5F2;
+  color: #1E293B; /* Slate-800 equivalent */
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #F1EBE4;
+}
+::-webkit-scrollbar-thumb {
+  background: #D4AF37;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #B79222;
+}

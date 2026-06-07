@@ -1,0 +1,6 @@
+{
+  "name": "Jihočeské katolické lesy",
+  "description": "Web pro Jihočeské katolické lesy, by Daniel Petrů",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
