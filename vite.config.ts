@@ -5,6 +5,7 @@ import { defineConfig } from 'vite';
 
 export default defineConfig(() => {
   return {
-    plugins: [react(), tailwindcss()]
+    plugins: [react(), tailwindcss()],
+    base: '/dandapetru.github.io/', // <-- TADY TO PŘIDEJ
   };
 });
