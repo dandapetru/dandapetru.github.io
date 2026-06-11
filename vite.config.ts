@@ -6,6 +6,6 @@ import { defineConfig } from 'vite';
 export default defineConfig(() => {
   return {
     plugins: [react(), tailwindcss()],
-    base: '/dandapetru.github.io/', // <-- TADY TO PŘIDEJ
+    base: '/dandapetru.github.io/', // JE TŘEBA MĚNIT
   };
 });
