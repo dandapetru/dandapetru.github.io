@@ -69,7 +69,7 @@ export default function App() {
   const fetchAllSiteData = async () => {
     setIsLoading(true);
     try {
-      const response = await fetch('/api/site-data');
+      const response = await fetch('data/site-data');
       if (!response.ok) {
         throw new Error(`Chyba serveru při inicializaci dat: ${response.status}`);
       }
