@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import siteData from '../../data/site-data.json';
 import { 
   NewsItem, 
   ContactPerson, 
