@@ -1,0 +1,66 @@
+[
+  {
+    "id": "g1",
+    "title": "Svit slunce v bukovém porostu",
+    "imageUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&q=80&w=1200",
+    "category": "reviry",
+    "description": "Přirozené zmlazení pod zápojem mateřských buků a jedlí na revíru Hluboká.",
+    "date": "Květen 2026"
+  },
+  {
+    "id": "g2",
+    "title": "Příprava bukových polen",
+    "imageUrl": "https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?auto=format&fit=crop&q=80&w=1200",
+    "category": "pracoviste",
+    "description": "Řezání a štípání palivového dřeva na skládkovém expedičním revíru pro Jižní Čechy.",
+    "date": "Duben 2026"
+  },
+  {
+    "id": "g3",
+    "title": "Mlžné ráno v Novohradských horách",
+    "imageUrl": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?auto=format&fit=crop&q=80&w=1200",
+    "category": "reviry",
+    "description": "Smíšené lesy s vysokým zastoupením ohrožené jedle bělokoré v okolí Dobré Vody.",
+    "date": "Květen 2026"
+  },
+  {
+    "id": "g4",
+    "title": "Zásoby na zimu",
+    "imageUrl": "images/fotogalerie/1781170307121_Challenger.jpg",
+    "category": "technika",
+    "description": "Kvalitní vysušená polena rovnaná v zastřešených dřevnících připravená k odběru.",
+    "date": "Březen 2026"
+  },
+  {
+    "id": "g5",
+    "title": "Podzimní cesta revírem Třeboň",
+    "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&q=80&w=1200",
+    "category": "reviry",
+    "description": "Malebná lesní komunikace udržovaná s ohledem na cykloturisty a šetrné lesní vyvážení dříví.",
+    "date": "Listopad 2025"
+  },
+  {
+    "id": "g6",
+    "title": "Zasazení mladé sazenice",
+    "imageUrl": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?auto=format&fit=crop&q=80&w=1200",
+    "category": "pracoviste",
+    "description": "Udržitelné zalesňování: pečlivá manuální výsadba melioračních buků do přirozeně kypré lesní půdy.",
+    "date": "Květen 2026"
+  },
+  {
+    "id": "g7",
+    "title": "Svatohubertský rodinný den",
+    "imageUrl": "https://images.unsplash.com/photo-1511497584788-876760111969?auto=format&fit=crop&q=80&w=1200",
+    "category": "akce",
+    "description": "Ukázky lesní pedagogiky pro děti a povídání s revírníky na vyhlídkovém lesním palouku.",
+    "date": "Červen 2026"
+  },
+  {
+    "id": "g8",
+    "title": "Zimní pokrývka šumavských podhůří",
+    "imageUrl": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&q=80&w=1200",
+    "category": "reviry",
+    "description": "Zasněžené jehličnaté porosty v mrazivém tichu farního revíru Prachatice.",
+    "date": "Leden 2026"
+  }
+]
